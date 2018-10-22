@@ -1,0 +1,6 @@
+.idea/
+out/
+target/
+pom.xml
+programming-exercises.iml
+.gitignore
